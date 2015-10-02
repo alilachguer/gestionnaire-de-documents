@@ -1,0 +1,7 @@
+meuble :am2
+ |section:etagere 2 
+|espace_occupe:1.5
+ |consultation:forte
+ |num_type:1
+ |ref_document:document general
+ |p|classement:chronologique |description:compagne de sensibilisation aux risques de la route |date de creation:2010/5/1 |date extreme:2013/5/1 

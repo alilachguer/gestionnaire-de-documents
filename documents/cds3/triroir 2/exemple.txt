@@ -1,0 +1,1 @@
+meuble :cds3 |section:triroir 2 |espace_occupe:1.5 |consultation:forte |num_type:7 |ref_document:pv ||classement:thematique |description:exemple |date de creation:2011/5/1 |date extreme:2014/1/1 

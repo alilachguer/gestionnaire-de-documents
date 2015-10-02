@@ -1,0 +1,1 @@
+meuble :cds3 |section:armoire 4 |espace_occupe:3.4 |consultation:moyenne |num_type:5 |ref_document:reglement ||classement:chronologique |description:zvzvzvzevezv |date de creation:2010/7/1 |date extreme:2015/10/1 
